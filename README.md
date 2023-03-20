@@ -6,7 +6,7 @@
 
 | Idx | Sensor | Project Status | Interface | Project Link / Git | FPGA Supported | IDE | FPS (MAX) | Resolution (MAX) |
 | - | - |  - | - | - | - | - | - | - |
-| 1 | OV13850 | 🟢 DONE | MIPI |  | Xilinx | Vivado 2020.2 | 30 | 4224 x 3136 |
-| 2 | OV3689 | 🟢 DONE | MIPI |  | Xilinx | Vivado 2020.2 | 90 | 2688 x 1520 |
+| 1 | OV13850 | 🟢 DONE | MIPI | [OV13850](https://github.com/briansune/Kintex-7-OV13850-Verilog) | Xilinx | Vivado 2020.2 | 30 | 4224 x 3136 |
+| 2 | OV3689 | 🟢 DONE | MIPI | [OV4689](https://github.com/briansune/kintex-7-OV4689-Verilog) | Xilinx | Vivado 2020.2 | 90 | 2688 x 1520 |
 | 3 | 
 
