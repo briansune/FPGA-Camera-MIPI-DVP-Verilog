@@ -10,3 +10,4 @@
 | 2 | OV3689 | :green_circle: DONE | MIPI | [OV4689](https://github.com/briansune/kintex-7-OV4689-Verilog) | Xilinx | Vivado 2020.2 | 90 | 2688 x 1520 | 30, 2688 |
 | 3 | IMX291 | :green_circle: DONE | MIPI | [IMX291](https://github.com/briansune/Kintex-7-IMX291-Verilog) | Xilinx | Vivado 2020.2 | 120 | 1920 x 1080 | 60, 1080P |
 | 4 | OV5640 | :green_circle: DONE | PARA | [OV5640](https://github.com/briansune/Artix-7-Parallel-OV5640) | Xilinx | Vivado 2020.2 | 30 | 1920 x 1080 | 30, XGA |
+| 5 | OV5640 | :green_circle: DONE | PARA | [OV5640](https://github.com/briansune/Artix-7-Parallel-OV5640) | Xilinx | Vivado 2020.2 | 30 | 1920 x 1080 | 30, WQVGA |
