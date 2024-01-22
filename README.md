@@ -19,4 +19,5 @@
 | 6 | OV5640 | 🟢 DONE | DVP | [OV5640](https://github.com/briansune/Artix-7-Parallel-OV5640) | Xilinx | Vivado 2020.2 | 30 | 1920 x 1080 | 60, 720p |
 | 7 | OV2640 | 🟢 DONE | DVP | [OV2640](https://github.com/briansune/Tang-Nano-4K-OV2640-Color-Verilog) | GOWIN | GOWIN EDA 19.9 | 30 | 800 x 600 | 30, SVGA |
 | 8 | OV2640 | 🟢 DONE | DVP | [OV2640](https://github.com/briansune/Artix-7-Parallel-OV2640) | Xilinx | Vivado 2020.2 | 30 | 800 x 600 | 30, SVGA |
-| 9 | OV9655 | 🟡 WORKING | DVP | [OV9655]() | Xilinx | Vivado 2020.2 | 30 | 640 x 480 | 30, VGA |
+| 9 | OV7670 | 🟢 DONE | DVP | [OV7670](https://briansune.github.io/Artix-7-Parallel-OV7670) | Xilinx | Vivado 2020.2 | 30 | 640 x 480 | 30, VGA |
+| 10 | OV9655 | 🟡 WORKING | DVP | [OV9655]() | Xilinx | Vivado 2020.2 | 30 | 640 x 480 | 30, VGA |
