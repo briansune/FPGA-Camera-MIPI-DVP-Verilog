@@ -16,6 +16,7 @@
 | 3 | IMX291 | 🟢 DONE | MIPI | [IMX291](https://github.com/briansune/Kintex-7-IMX291-Verilog) | Xilinx | Vivado 2020.2 | 120 | 1920 x 1080 | 60, 1080P |
 | 4 | OV5640 | 🟢 DONE | DVP | [OV5640](https://github.com/briansune/Artix-7-Parallel-OV5640) | Xilinx | Vivado 2020.2 | 30 | 1920 x 1080 | 30, XGA |
 | 5 | OV5640 | 🟢 DONE | DVP | [OV5640](https://github.com/briansune/Artix-7-Parallel-OV5640) | Xilinx | Vivado 2020.2 | 30 | 1920 x 1080 | 30, WQVGA |
-| 6 | OV2640 | 🟢 DONE | DVP | [OV2640](https://github.com/briansune/Tang-Nano-4K-OV2640-Color-Verilog) | GOWIN | GOWIN EDA 19.9 | 30 | 800 x 600 | 30, SVGA |
-| 7 | OV2640 | 🟢 DONE | DVP | [OV2640](https://github.com/briansune/Artix-7-Parallel-OV2640) | Xilinx | Vivado 2020.2 | 30 | 800 x 600 | 30, SVGA |
-| 8 | OV9655 | 🟡 WORKING | DVP | [OV9655]() | Xilinx | Vivado 2020.2 | 30 | 640 x 480 | 30, VGA |
+| 6 | OV5640 | 🟢 DONE | DVP | [OV5640](https://github.com/briansune/Artix-7-Parallel-OV5640) | Xilinx | Vivado 2020.2 | 60 | 1920 x 1080 | 30, 720p |
+| 7 | OV2640 | 🟢 DONE | DVP | [OV2640](https://github.com/briansune/Tang-Nano-4K-OV2640-Color-Verilog) | GOWIN | GOWIN EDA 19.9 | 30 | 800 x 600 | 30, SVGA |
+| 8 | OV2640 | 🟢 DONE | DVP | [OV2640](https://github.com/briansune/Artix-7-Parallel-OV2640) | Xilinx | Vivado 2020.2 | 30 | 800 x 600 | 30, SVGA |
+| 9 | OV9655 | 🟡 WORKING | DVP | [OV9655]() | Xilinx | Vivado 2020.2 | 30 | 640 x 480 | 30, VGA |
