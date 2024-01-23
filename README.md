@@ -21,3 +21,4 @@
 | 8 | OV2640 | 🟢 DONE | DVP | [OV2640](https://github.com/briansune/Artix-7-Parallel-OV2640) | Xilinx | Vivado 2020.2 | 30 | 800 x 600 | 30, SVGA |
 | 9 | OV7670 | 🟢 DONE | DVP | [OV7670](https://github.com/briansune/Artix-7-Parallel-OV7670) | Xilinx | Vivado 2020.2 | 30 | 640 x 480 | 30, VGA |
 | 10 | OV9655 | 🟡 WORKING | DVP | [OV9655]() | Xilinx | Vivado 2020.2 | 30 | 640 x 480 | 30, VGA |
+| 11 | OV7740 | 🟡 WORKING | DVP | [OV7740]() | Xilinx | Vivado 2020.2 | 60 | 640 x 480 | 60, VGA |
