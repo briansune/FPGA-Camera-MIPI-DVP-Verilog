@@ -18,8 +18,9 @@
 |  5 | OV5640 | 🟢 DONE | DVP | [OV5640](https://github.com/briansune/Artix-7-Parallel-OV5640) | Xilinx | Vivado 2020.2 | 30 | 1920 x 1080 | 30, WQVGA |
 |  6 | OV5640 | 🟢 DONE | DVP | [OV5640](https://github.com/briansune/Artix-7-Parallel-OV5640) | Xilinx | Vivado 2020.2 | 30 | 1920 x 1080 | 60, 720p |
 |  7 | OV5640 | 🟢 DONE | DVP | [OV5640](https://github.com/briansune/Artix-7-Parallel-OV5640) | Xilinx | Vivado 2020.2 | 30 | 1920 x 1080 | 30, QuadVGA |
-|  8 | OV2640 | 🟢 DONE | DVP | [OV2640](https://github.com/briansune/Tang-Nano-4K-OV2640-Color-Verilog) | GOWIN | GOWIN EDA 19.9 | 30 | 800 x 600 | 30, SVGA |
-|  9 | OV2640 | 🟢 DONE | DVP | [OV2640](https://github.com/briansune/Artix-7-Parallel-OV2640) | Xilinx | Vivado 2020.2 | 30 | 800 x 600 | 30, SVGA |
-| 10 | OV7670 | 🟢 DONE | DVP | [OV7670](https://github.com/briansune/Artix-7-Parallel-OV7670) | Xilinx | Vivado 2020.2 | 30 | 640 x 480 | 30, VGA |
-| 11 | OV9655 | 🟢 DONE | DVP | [OV9655](https://github.com/briansune/Artix-7-Parallel-OV9655) | Xilinx | Vivado 2020.2 | 30 | 640 x 480 | 30, VGA |
-| 12 | OV7740 | 🟡 WORKING | DVP | [OV7740]() | Xilinx | Vivado 2020.2 | 60 | 640 x 480 | 60, VGA |
+|  8 | OV5640 | 🟡 WORKING | DVP | [OV5640](https://github.com/briansune/Artix-7-Parallel-OV5640) | Xilinx | Vivado 2020.2 | 30 | 1920 x 1080 | 30, 1080p |
+|  9 | OV2640 | 🟢 DONE | DVP | [OV2640](https://github.com/briansune/Tang-Nano-4K-OV2640-Color-Verilog) | GOWIN | GOWIN EDA 19.9 | 30 | 800 x 600 | 30, SVGA |
+| 10 | OV2640 | 🟢 DONE | DVP | [OV2640](https://github.com/briansune/Artix-7-Parallel-OV2640) | Xilinx | Vivado 2020.2 | 30 | 800 x 600 | 30, SVGA |
+| 11 | OV7670 | 🟢 DONE | DVP | [OV7670](https://github.com/briansune/Artix-7-Parallel-OV7670) | Xilinx | Vivado 2020.2 | 30 | 640 x 480 | 30, VGA |
+| 12 | OV9655 | 🟢 DONE | DVP | [OV9655](https://github.com/briansune/Artix-7-Parallel-OV9655) | Xilinx | Vivado 2020.2 | 30 | 640 x 480 | 30, VGA |
+| 13 | OV7740 | 🟡 WORKING | DVP | [OV7740]() | Xilinx | Vivado 2020.2 | 60 | 640 x 480 | 60, VGA |
