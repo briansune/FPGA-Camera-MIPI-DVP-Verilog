@@ -24,4 +24,4 @@
 | 11 | OV2640  | 🟢 DONE    | DVP  | [OV2640](https://github.com/briansune/Artix-7-Parallel-OV2640)           | <p>Xilinx<br>7 Series Above</p> | <p>Vivado<br>2020.2</p>  | 30  | <p>800<br>600</p>   | <p>30<br>SVGA<br>Color</p>    |
 | 12 | OV7670  | 🟢 DONE    | DVP  | [OV7670](https://github.com/briansune/Artix-7-Parallel-OV7670)           | <p>Xilinx<br>7 Series Above</p> | <p>Vivado<br>2020.2</p>  | 30  | <p>640<br>480</p>   | <p>30<br>VGA<br>Color</p>     |
 | 13 | OV9655  | 🟢 DONE    | DVP  | [OV9655](https://github.com/briansune/Artix-7-Parallel-OV9655)           | <p>Xilinx<br>7 Series Above</p> | <p>Vivado<br>2020.2</p>  | 30  | <p>640<br>480</p>   | <p>30<br>VGA<br>Color</p>     |
-| 14 | OV7740  | 🟡 WORKING | DVP  | [OV7740]()                                                               | <p>Xilinx<br>7 Series Above</p> | <p>Vivado<br>2020.2</p>  | 60  | <p>640<br>480</p>   | <p>60<br>VGA<br>Color</p>     |
+| 14 | OV7740  | 🟢 DONE    | DVP  | [OV7740](https://github.com/briansune/Artix-7-Parallel-OV7740)           | <p>Xilinx<br>7 Series Above</p> | <p>Vivado<br>2020.2</p>  | 60  | <p>640<br>480</p>   | <p>60<br>VGA<br>DeBayer</p>     |
