@@ -8,15 +8,21 @@ or
 
 paypal.me/briansune
 
-### This proejct targeted most commonly used camera module or sensor
+## Example projects are based on commonly found CMOS sensor and FPGA
 
-## Vivado Version & Kindly Reminds
+### The sensors example - Altera
+
+| Idx | Sensor | Project Status | Interface | Project Link | FPGA | IDE | FPS (MAX) | <p>Resolution<br>W<br>H</p> | <p>Target<br>FPS<br>Resolution<br>Color</p> |
+| - | - |  - | - | - | - | - | - | - | - |
+|  1 | IMX415  | 🟢 DONE    | MIPI | [IMX415](https://github.com/briansune/Cyclone-V-MIPI-IMX415)   | Cyclone V SoC | Quartus Prime | 60 | <p>3840<br>2160</p> | <p>60<br>1080P<br>debayer</p>   |
+
+### The sensors example - Xilinx
+
+#### Vivado Version & Kindly Reminds
 
 For Vivado, using block diagram method is very userfriendly!
 
 However, please pay GOOD attention to the reset polarity!
-
-### The sensors example
 
 | Idx | Sensor | Project Status | Interface | Project Link | FPGA | IDE | FPS (MAX) | <p>Resolution<br>W<br>H</p> | <p>Target<br>FPS<br>Resolution<br>Color</p> |
 | - | - |  - | - | - | - | - | - | - | - |
