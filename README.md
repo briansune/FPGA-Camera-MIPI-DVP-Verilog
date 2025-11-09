@@ -15,6 +15,7 @@ paypal.me/briansune
 | Idx | Sensor | Project Status | Interface | Project Link | FPGA | IDE | FPS (MAX) | <p>Resolution<br>W<br>H</p> | <p>Target<br>FPS<br>Resolution<br>Color</p> |
 | - | - |  - | - | - | - | - | - | - | - |
 |  1 | IMX415  | 🟢 DONE    | MIPI | [IMX415](https://github.com/briansune/Cyclone-V-MIPI-IMX415)   | Cyclone V SoC | Quartus Prime | 60 | <p>3840<br>2160</p> | <p>60<br>1080P<br>debayer</p>   |
+|  1 | IMX291  | 🟢 DONE    | MIPI | [IMX291](https://github.com/briansune/Cyclone-V-MIPI-IMX291)   | Cyclone V SoC | Quartus Prime | 60 | <p>1920<br>1080</p> | <p>60<br>qHD<br>debayer</p>   |
 
 ### The sensors example - Xilinx
 
